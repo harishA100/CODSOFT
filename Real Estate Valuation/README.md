@@ -3,7 +3,7 @@ Copyright (c) 2016 - 2019
 
 ---
 
-**Level:** Intermediate <br/>
+**Level:** Beginner <br/>
 **Recommended Use:** Regression Models<br/>
 **Domain:** Real Estate<br/> 
 
@@ -16,7 +16,7 @@ Copyright (c) 2016 - 2019
 ![](310.jpg)
 ---
 
-This *intermediate* level data set has 414 rows and 7 columns. 
+This *beginner* level data set has 414 rows and 7 columns. 
 It provides the market historical data set of real estate valuations which are collected from Sindian Dist., New Taipei City, Taiwan.
 This data set is recommended for learning and practicing your skills in **exploratory data analysis**, **data visualization**, and **regression modelling techniques**. 
 Feel free to explore the data set with multiple **supervised** and **unsupervised** learning techniques. 

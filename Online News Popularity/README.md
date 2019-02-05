@@ -16,7 +16,7 @@ Copyright (c) 2016 - 2019
 ![](OBDL960.jpg)
 ---
 
-This *intermediate* level data set has 39644 rows and 61 columns.
+This *advanced* level data set has 39644 rows and 61 columns.
 This dataset summarizes a heterogeneous set of features about articles published by Mashable in a period of two years. 
 This could be used to predict the number of shares of an article in social networks.
 

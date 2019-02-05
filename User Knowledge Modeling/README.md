@@ -3,7 +3,7 @@ Copyright (c) 2016 - 2019
 
 ---
 
-**Level:** Intermediate <br/>
+**Level:** Beginner <br/>
 **Recommended Use:** Classification/Clustering<br/>
 **Domain:** Education/Web<br/> 
 
@@ -16,7 +16,7 @@ Copyright (c) 2016 - 2019
 ![](342309-PA9PNI-658.jpg)
 ---
 
-This *intermediate* level data set has 403 rows and 6 columns.
+This *beginner* level data set has 403 rows and 6 columns.
 The data set has been divided into training and testing (training: 258, testing: 145).
 It is a real dataset about the students' knowledge status about the subject of Electrical DC Machines.
 This data set is recommended for learning and practicing your skills in **exploratory data analysis**, **data visualization**, and **classification** and **clustering** techniques. 

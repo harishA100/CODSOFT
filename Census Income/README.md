@@ -10,7 +10,7 @@ Copyright (c) 2016 - 2019
 
 ## Census Income Data Set
 
-### Predict whether income exceeds $50K/year:
+### Estimate whether a person’s income exceeds $50K/year:
 
 ![](rawpixel-557125-unsplash.jpg)
 

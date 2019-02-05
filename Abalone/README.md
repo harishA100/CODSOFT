@@ -9,7 +9,7 @@ Copyright (c) 2016 - 2019
 
 ## Abalone Data Set 
 
-### Predict the age of Abalone from physical measurements 
+### Find out the age of Abalone from physical measurements 
 
 
 ---

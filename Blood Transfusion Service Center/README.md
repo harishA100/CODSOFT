@@ -3,20 +3,20 @@ Copyright (c) 2016 - 2019
 
 ---
 
-**Level** Advanced <br/>
+**Level** Intermediate <br/>
 **Recommended Use:** Classification Models<br/>
 **Domain:** Business<br/> 
 
 ## Blood Transfusion Service Center Data Set 
 
-### Predict if a donor will give blood in March 2007 
+### Find out if a donor will give blood in March 2007 
 
 
 ---
 ![](hush-naidoo-1170844-unsplash.jpg)
 ---
 
-This *advanced* level data set has 748 instances and 5 attributes.
+This *intermediate* level data set has 748 instances and 5 attributes.
 This data set is recommended for learning and practicing your skills in **exploratory data analysis**, **data visualization**, and **classification modelling techniques**. 
 Feel free to explore the data set with multiple **supervised** and **unsupervised** learning techniques.
 

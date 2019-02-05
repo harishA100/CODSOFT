@@ -3,7 +3,7 @@ Copyright (c) 2016 - 2019
 
 ---
 
-**Level:** Intermediate <br/>
+**Level:** Advanced <br/>
 **Recommended Use:** Regression/Clustering Models<br/>
 **Domain:** Electricity<br/> 
 
@@ -16,7 +16,7 @@ Copyright (c) 2016 - 2019
 ![](230088-P1ZDYV-666.jpg)
 ---
 
-This *intermediate* level data set has 2075259 rows and 9 columns.
+This *advanced* level data set has 2075259 rows and 9 columns.
 This dataset provides measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years.
 Different electrical quantities and some sub-metering values are available.
 

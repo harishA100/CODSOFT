@@ -16,7 +16,7 @@ Copyright (c) 2016 - 2019
 ![](1190.jpg)
 ---
 
-This *intermediate* level data set was derived from a decision-making model which was originally developed for research on multi-attribute decision making. 
+This *beginner* level data set was derived from a decision-making model which was originally developed for research on multi-attribute decision making. 
 Decision making involves selection between seemingly conflicting alternatives. 
 
 The data set has 1728 rows and 7 columns in which car attributes such as price and technology are described across 6 attributes such as "Buying Price", "Maintenance", and "Safety" etc. There are multiple alternatives under each of the 6 attributes. Car's acceptability,

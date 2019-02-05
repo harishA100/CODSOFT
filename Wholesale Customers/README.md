@@ -9,7 +9,7 @@ Copyright (c) 2016 - 2019
 
 ## Wholesale Customers Data Set 
 
-### Discover patterns from spending data at wholesale 
+### Find patterns from spending data at wholesale 
 
 
 ---

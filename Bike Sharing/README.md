@@ -9,7 +9,7 @@ Copyright (c) 2016 - 2019
 
 ## Bike Sharing Data Set 
 
-### Predicat bike rental count (hourly/daily) based on the environmental & seasonal settings
+### Predict bike rental count (hourly/daily) based on the environmental & seasonal settings
 
 ---
 ![](411.jpg)

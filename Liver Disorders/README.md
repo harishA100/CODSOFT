@@ -9,7 +9,7 @@ Copyright (c) 2016 - 2019
 
 ## Liver Disorders Data Set
 
-### Patterns relating liver disorder and alcohol consumption
+### Discover patterns relating liver disorder and alcohol consumption
 
 
 ---

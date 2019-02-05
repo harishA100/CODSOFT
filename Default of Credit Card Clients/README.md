@@ -3,7 +3,7 @@ Copyright (c) 2016 - 2019
 
 ---
 
-**Level:** Intermediate <br/>
+**Level:** Advanced <br/>
 **Recommended Use:** Classification Models<br/>
 **Domain:** Business/Finance<br/> 
 
@@ -16,7 +16,7 @@ Copyright (c) 2016 - 2019
 ![](388737-PC5WB4-539.jpg)
 ---
 
-This *intermediate* level data set has 30000 rows and 24 columns.
+This *advanced* level data set has 30000 rows and 24 columns.
 The data set could be used to estimate the probability of default payment by credit card client using the data provided.
 This data set is recommended for learning and practicing your skills in **exploratory data analysis**, **data visualization**, and **classification modelling techniques**. 
 Feel free to explore the data set with multiple **supervised** and **unsupervised** learning techniques. The Following data dictionary gives more details on this data set:
