@@ -5,7 +5,7 @@ Copyright (c) 2016 - 2019
 
 **Level:** Beginner <br/>
 **Recommended Use:** Regression Models<br/>
-**Domain:** Automobiles<br/> 
+**Domain:** Environment<br/> 
 
 ## Abalone Data Set 
 
