@@ -1,3 +1,12 @@
+Data Science Dojo <br/>
+Copyright (c) 2016 - 2020
+
+---
+
+**Level:** Advanced <br/>
+**Recommended Use:** Text Analytics<br/>
+**Domain:** Marketing<br/>
+
 # Amazon product reviews data
 
 This dataset contains product reviews and metadata from Amazon, including 142.8 million reviews spanning May 1996 - July 2014.
@@ -28,3 +37,22 @@ where
 - summary - summary of the review
 - unixReviewTime - time of the review (unix time)
 - reviewTime - time of the review (raw)
+
+
+## Acknowledgement
+
+This data set has been sourced from [jmcauley.ucsd.edu/data/amazon/links.html](http://jmcauley.ucsd.edu/data/amazon/links.html)
+
+### Use of this data requires citation
+
+Please cite one or both of the following if you use the data in any way:
+
+Ups and downs: Modeling the visual evolution of fashion trends with one-class collaborative filtering <br/>
+R. He, J. McAuley <br/>
+WWW, 2016 <br/>
+[pdf](http://cseweb.ucsd.edu/~jmcauley/pdfs/www16a.pdf)
+
+Image-based recommendations on styles and substitutes <br/>
+J. McAuley, C. Targett, J. Shi, A. van den Hengel <br/>
+SIGIR, 2015 <br/>
+[pdf](http://cseweb.ucsd.edu/~jmcauley/pdfs/sigir15.pdf)
