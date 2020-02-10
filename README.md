@@ -1,7 +1,7 @@
 # Data Sets to Uplift your Skills 
 
 
-+ Data Science Dojo has added 30 data sets to this repository. 
++ Data Science Dojo has added more than 30 data sets to this repository. 
 + The repository carries a diverse range of themes, difficulty levels, sizes and attributes. 
 + They offer hands-on practice to boost their skills in exploratory data analysis, data visualization, data wrangling and machine learning.
 + The data sets below have been sorted with increasing level of difficulty for convenience (Beginner, Intermediate, Advanced).
@@ -108,8 +108,9 @@ Regression/Clustering Models | Electricity
 [**Predict the number of shares on social networks**](Online News Popularity)<br/>
 Regression/Classification Models | Business/Web
 
+[**Analyze the text or sentiment of products on Amazon, or recommend products**](Amazon Product Reviews)<br/>
+Text Analytics/Sentiment Analysis/Recommender Systems
 ---
-
 ### Queries:
 
 **Can I use these datasets for my project?**<br/>
