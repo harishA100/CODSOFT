@@ -1,5 +1,5 @@
 Data Science Dojo <br/>
-Copyright (c) 2016 - 2019
+Copyright (c) 2019 - 2020
 
 ---
 
