@@ -1,6 +1,0 @@
-## Link to Dataset <br/>
-aggressively deduplicated data (18gb)
-
-No duplicates whatsoever (82.83 million reviews). file removes duplicates more aggressively, removing duplicates even if they are written by different users. This accounts for users with multiple accounts or plagiarized reviews.
-
-Format is one-review-per-line in (loose) json. See examples below for further help reading the data.
