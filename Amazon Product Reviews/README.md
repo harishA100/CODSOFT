@@ -15,7 +15,7 @@ No duplicates whatsoever (82.83 million reviews). file removes duplicates more a
 Format is one-review-per-line in (loose) json. See examples below for further help reading the data.
 
 ## Sample review <br/>
-IMAGE HERE
+![](amazon_reviews_example.PNG)
 
 where
 
