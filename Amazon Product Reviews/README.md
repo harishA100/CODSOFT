@@ -7,8 +7,8 @@ This dataset includes reviews (ratings, text, helpfulness votes), product metada
 This dataset is probably preferable for sentiment analysis type tasks.
 
 
-## Link to dataset <br/>
-aggressively deduplicated data (18gb)
+## Link to dataset
+[aggressively deduplicated data (18gb)] (http://snap.stanford.edu/data/amazon/productGraph/aggressive_dedup.json.gz)
 
 No duplicates whatsoever (82.83 million reviews). file removes duplicates more aggressively, removing duplicates even if they are written by different users. This accounts for users with multiple accounts or plagiarized reviews.
 
