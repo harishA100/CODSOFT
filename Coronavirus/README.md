@@ -9,7 +9,7 @@ Copyright (c) 2019 - 2020
 
 ## Coronavirus Data Set 
 
-### Track the outbreak of coronoavirus (COVID-19) 
+### Track the outbreak of Coronavirus (COVID-19) 
 
 
 ---
