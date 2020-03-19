@@ -44,6 +44,11 @@ The data dictionary for the first file is provided below.
 
 ---
 
+### Merged Data Sources
+
+In an effort to help people stay informed and updated on Coronavirus (COVID-19), Data Science Dojo has decided to merged together several data sources of daily reports on the situation. This merged dataset includes not only the latest cases and death counts, but also the travel advisory levels and travel restrictions, by country. This will be updated daily for your convenience, with past days of the data in CSV format archived in our public git repository.  
+This single view of the current status of Coronavirus is pulled, cleaned and merged daily from the World Health Organization reports, US Department of State Travel Advisories, Smart Traveller, and CNN news service. 
+
 ### Acknowledgement
 
 
