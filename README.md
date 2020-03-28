@@ -33,6 +33,16 @@ Regression/Classification Models | Healthcare/Life
 
 [**Estimate chance of bankruptcy from qualitative parameters by experts**](Qualitative Bankruptcy)<br/>
 Classification Models | Finance/Banking
+
+[**Understand driving patterns of Birmingham with respect to time and date**](Birmingham Parking Dataset)<br/>
+Regression/Classification Models | Transport and Mobility
+
+[**Explore the effect of time, date and weather on traffic volume on a US Interstate**](https://code.datasciencedojo.com/datasciencedojo/datasets/tree/patch-1/Interstate-94%20(I-94)%20Traffic%20Volume%20Dataset)<br/>
+Regression Models | Transport and Mobility
+
+[**Explore patterns in drug abuse between cities, age groups and racial groups**](Accidental Drug Related Deaths in Connecticut, US)<br/>
+Classification Models | Healthcare/Social Sciences
+
 ---
 ### Intermediate:
 
@@ -90,6 +100,18 @@ Classification Models | Energy/Buildings
 [**Estimate whether a person’s income exceeds $50K/year**](Census Income)<br/>
 Classification Models | Social/Government
 
+[**Predict the condition of a patients liver from their bloodwork**](https://code.datasciencedojo.com/datasciencedojo/datasets/tree/patch-1/Hepatitis%20C%20Virus%20(HCV)%20Classification%20Dataset)<br/>
+Classification Models | Healthcare
+
+[**Predict future poverty trends in EU Countries**](EU Population Poverty Status Dataset)<br/>
+Regression Models | Social/Government
+
+[**Predict the spread of Tuberculosis across the US**](US Tuberculosis Dataset)<br/>
+Regression Models | Healthcare
+
+[**Determine if smoking, invasive birth control methods and a history of STDs can lead to Cervical Cancer**](Risk Factors for Cervical Cancer)<br/>
+Classification Models | Healthcare
+
 ---
 ### Advanced:
 
@@ -110,6 +132,15 @@ Regression/Classification Models | Business/Web
 
 [**Analyze the text or sentiment of products on Amazon, or recommend products**](Amazon Product Reviews)<br/>
 Text Analytics/Sentiment Analysis/Recommender Systems
+
+[**Explore predictive modelling and numerical forecasting techniques**](Portugal 2019 Election Dataset)<br/>
+Regression Models | Social Sciences/Government
+
+[**Explore changes in brain activity in humans in the presence and absence of a visual stimulus**](EEG Eye State Dataset)<br/>
+Classification Models | Neuroscience/Healthcare
+
+[**Explore patterns in brain activity based on multiple visual and non-visual stimuli**](EEG Steady State Evoked Potential Dataset)<br/>
+Classification Models | Neuroscience/Healthcare
 
 ---
 ### Queries:
