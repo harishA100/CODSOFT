@@ -33,6 +33,16 @@ Regression/Classification Models | Healthcare/Life
 
 [**Estimate chance of bankruptcy from qualitative parameters by experts**](Qualitative Bankruptcy)<br/>
 Classification Models | Finance/Banking
+
+[**Understand driving patterns of Birmingham with respect to time and date**](Birmingham Parking Dataset)<br/>
+Regression/Classification Models | Transport and Mobility
+
+[**Explore the effect of time, date and weather on traffic volume on a US Interstate**](Interstate-94 (I-94\) Traffic Volume Dataset)<br/>
+Regression Models | Transport and Mobility
+
+[**Explore patterns in drug abuse between cities, age groups and racial groups**](Accidental Drug Related Deaths in Connecticut, US)<br/>
+Classification Models | Healthcare/Social Sciences
+
 ---
 ### Intermediate:
 
