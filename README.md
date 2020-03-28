@@ -100,6 +100,18 @@ Classification Models | Energy/Buildings
 [**Estimate whether a person’s income exceeds $50K/year**](Census Income)<br/>
 Classification Models | Social/Government
 
+[**Predict the condition of a patients liver from their bloodwork**](https://code.datasciencedojo.com/datasciencedojo/datasets/tree/patch-1/Hepatitis%20C%20Virus%20(HCV)%20Classification%20Dataset)<br/>
+Classification Models | Healthcare
+
+[**Predict future poverty trends in EU Countries**](EU Population Poverty Status Dataset)<br/>
+Regression Models | Social/Government
+
+[**Predict the spread of Tuberculosis across the US**](US Tuberculosis Dataset)<br/>
+Regression Models | Healthcare
+
+[**Determine if smoking, invasive birth control methods and a history of STDs can lead to Cervical Cancer**](Risk Factors for Cervical Cancer)<br/>
+Classification Models | Healthcare
+
 ---
 ### Advanced:
 
