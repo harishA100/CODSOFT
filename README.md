@@ -133,9 +133,14 @@ Regression/Classification Models | Business/Web
 [**Analyze the text or sentiment of products on Amazon, or recommend products**](Amazon Product Reviews)<br/>
 Text Analytics/Sentiment Analysis/Recommender Systems
 
-[**Analyze the text or sentiment of products on Amazon, or recommend products**](Amazon Product Reviews)<br/>
-Text Analytics/Sentiment Analysis/Recommender Systems
+[**Explore predictive modelling and numerical forecasting techniques**](Portugal 2019 Election Dataset)<br/>
+Regression Models | Social Sciences/Government
 
+[**Explore changes in brain activity in humans in the presence and absence of a visual stimulus**](EEG Eye State Dataset)<br/>
+Classification Models | Neuroscience/Healthcare
+
+[**Explore patterns in brain activity based on multiple visual and non-visual stimuli**](EEG Steady State Evoked Potential Dataset)<br/>
+Classification Models | Neuroscience/Healthcare
 
 ---
 ### Queries:
