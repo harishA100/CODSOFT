@@ -37,7 +37,7 @@ Classification Models | Finance/Banking
 [**Understand driving patterns of Birmingham with respect to time and date**](Birmingham Parking Dataset)<br/>
 Regression/Classification Models | Transport and Mobility
 
-[**Explore the effect of time, date and weather on traffic volume on a US Interstate**](https://code.datasciencedojo.com/datasciencedojo/datasets/tree/patch-1/Interstate-94%20(I-94)%20Traffic%20Volume%20Dataset)<br/>
+[**Explore the effect of time, date and weather on traffic volume on a US Interstate**](https://code.datasciencedojo.com/datasciencedojo/datasets/tree/master/Interstate-94%20(I-94)%20Traffic%20Volume%20Dataset)<br/>
 Regression Models | Transport and Mobility
 
 [**Explore patterns in drug abuse between cities, age groups and racial groups**](Accidental Drug Related Deaths in Connecticut, US)<br/>
