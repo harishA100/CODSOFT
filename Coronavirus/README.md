@@ -20,7 +20,7 @@ The recent outbreak of the novel coronavirus has caused great concern all around
 The outbreak, originating in the Chinese city of Wuhan, has been declared a global emergency by the World Health Organization (WHO).
 
 This data set consists of 4 files and was collected through various sources.
-This repository is continuously updated. The data is available from 22 Jan, 2020 and was last updated on 3 March, 2020. 
+The data is available from 22 Jan, 2020 and was last updated on 3 March, 2020. 
 The first file **covid_19_data.csv** contains daily level information on the number of 2019-nCoV affected cases across the globe.
 The next 3 files contain time series data of confirmed cases, death cases and recovered cases, respectively.
 
@@ -46,7 +46,7 @@ The data dictionary for the first file is provided below.
 
 ### Merged Data Sources
 
-In an effort to help people stay informed and updated on Coronavirus (COVID-19), Data Science Dojo has decided to merged together several data sources of daily reports on the situation. This merged dataset includes not only the latest cases and death counts, but also the travel advisory levels and travel restrictions, by country. This will be updated daily for your convenience, with past days of the data in CSV format archived in our public git repository.  
+In an effort to help people stay informed and updated on Coronavirus (COVID-19), Data Science Dojo has decided to merge together several data sources of daily reports on the situation. This merged dataset includes not only the latest cases and death counts, but also the travel advisory levels and travel restrictions, by country. This will be updated daily for your convenience, with past days of the data in CSV format archived in our public git repository.  
 This single view of the current status of Coronavirus is pulled, cleaned and merged daily from the World Health Organization reports, US Department of State Travel Advisories, Smart Traveller, and CNN news service. 
 
 ### Acknowledgement
